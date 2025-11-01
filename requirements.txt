@@ -1,0 +1,6 @@
+Flask
+nest_asyncio
+python-telegram-bot
+openai
+duckduckgo_search
+requests
